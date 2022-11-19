@@ -1,5 +1,7 @@
 # Global_Sales_Analysis_KPI_Dashboard
 
+
+Link to Interactive Power BI Dashboard:
 https://app.powerbi.com/reportEmbed?reportId=69ccbe1a-8a76-481b-9e97-275bee768fb5&autoAuth=true&ctid=f651bb08-d47e-4082-9eac-58ea3ae7ad1f
 
 
