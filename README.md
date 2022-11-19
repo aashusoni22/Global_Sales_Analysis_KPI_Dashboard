@@ -6,13 +6,13 @@ https://app.powerbi.com/reportEmbed?reportId=69ccbe1a-8a76-481b-9e97-275bee768fb
 
 ![Screenshot 2022-11-18 172553](https://user-images.githubusercontent.com/114427519/202829739-51b363d1-3914-4056-af90-76d5a815b11d.jpg)
 
-- Goal: To live a healthy lifestyle by spending money consciously on the right things.
-- 
+
+
 - Objective: To analyze spending trends to find ways to build out healthy lifestyle.
-- 
+
 - Questions to Answer in order to achieve the Goal: 
   - “On which item the most money has been spend in 2021? And does that fulfill the current Goal?” 
-	“Where the credit card has been mostly used? Is it for in-store purchases or online?”
+  - “Where the credit card has been mostly used? Is it for in-store purchases or online?”
 	“Where the credit card has been mostly used? Is it for online food order for fast food purchases or grocery store for healthy food?”
 	“In total, how much money has been used from total yearly limit of $15600?”
 	“Did the due payments were paid on time? If not, how much interest charged in 2021?”
